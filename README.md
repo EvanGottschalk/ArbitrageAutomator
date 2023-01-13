@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/EvanGottschalk/ArbitrageAutomator">
-    <img src="images/logo.png" alt="Logo" width="250" height="130">
+    <img src="logo.png" alt="Logo" width="250" height="130">
   </a>
 
   <h3 align="center">ArbitrageAutomator</h3>
