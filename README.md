@@ -83,8 +83,6 @@ Flash loans are used to fund the `ArbitrageAutomator`'s trades. First, it borrow
 <!-- GETTING STARTED -->
 ### Installation
 
-EXAMPLE FROM OPERATEEXCHANGEGUI
-
 1. Clone the repository.
 
 2. Navigate to the project folder in the command line and install the necessary packages.
