@@ -101,13 +101,13 @@ npm install
   * PRIVATE_KEY - bot account private key
   * CONTRACT_ADDRESS - smart contract address
 
-4. Run index.js
+5. Run index.js
 
 ```
 node src/index.js
 ```
 
-5. Congratulations! Your bot is now up and running. It will check for a new arbitrage opportunity every 3 seconds by default. This value can be changed at the bottom of `index.js`
+6. Congratulations! Your bot is now up and running. It will check for a new arbitrage opportunity every 3 seconds by default. This value can be changed at the bottom of `index.js`
 
 
 <!-- ROADMAP -->
@@ -139,7 +139,7 @@ Distributed under the GNU GPL-3 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Evan Gottschalk - [@Fort1Evan](https://twitter.com/EvanOnEarth_eth) - evan.blockchain@gmail.com
+Evan Gottschalk - [@EvanOnEarth_eth](https://twitter.com/EvanOnEarth_eth) - evan.blockchain@gmail.com
 
 Project Link: [https://github.com/EvanGottschalk/ArbitrageAutomator](https://github.com/EvanGottschalk/ArbitrageAutomator)
 
